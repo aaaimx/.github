@@ -1,48 +1,40 @@
-## Hey, this is us 👋
-
-![An illustration showing a variety of differently themed Octocats. Monuments from different cities are indicated in the background like the Space Needle, Berlin Fernsehturm and Transamerica Pyramid.](https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg)
-
-Yes, we are building GitHub on GitHub. In fact, we’ve been doing this since **October 19th, 2007**. That's when we made our first commit. Since then we pushed **over 2.5 million commits**, opened **over 1 million issues**, submitted roughly **650k pull requests** across **4357 repositories** from over **50 countries** 🤯. But that's just us. We are proud  to be part of the work of millions of developers, companies and robots across the solar system 🪐. Yes, [Robots](https://github.com/readme/featured/nasa-ingenuity-helicopter)!
-
-### 🍿 An interconnected community
-
-The open source community is the 💗 heart of GitHub and fundamental to how we build software today. See for yourself:
-
-- [GitHub Sponsors](https://github.com/sponsors) helped support more than **5k** individuals and projects around the world 🌍
-- Open source projects on GitHub received a stunning **218 million** contributions 🚀 in the last year alone
-- **Every minute** a developer creates a new release 🏄 for a public project on GitHub
-
-Now that we are talking about the important things ☝️, are you contributing to open source? Yes? Okay, you rock! 🎸 If not, we can help you get started! Open source software is made by people just like you. Learn more about [how to contribute](https://opensource.guide/).
-
-### 🦦 Contributing to the ecosystem
-
-We contribute to the tools 🔧 we rely on to build and run GitHub, while also maintaining 🧙‍♂️ our own open source projects like:
-
-- [GitHub CLI](https://github.com/cli/cli) - A command line tool for GitHub
-- [Git Large File Storage](https://github.com/git-lfs/git-lfs) - A git extension for versioning large files
-- [Primer](https://github.com/primer/css) - The GitHub design system
-
-### 👓 Appendix
-
-See what's next on our [public roadmap](https://github.com/github/roadmap) ✨ and [let us know](https://github.com/github/feedback) if you have any suggestions 🙇‍♂️. Oh, and by the way, we are always hiring talented, passionate people to [join our team](https://github.com/about/careers) 🙌.
-
-<details> 
-	<summary>"Tell me more, I can't get enough!"</summary>
-	<br>
-	<ul>
-	<li>GitHub is built using mighty 🔨 open source technologies like <a href="https://github.com/rails">Ruby on Rails</a>, <a href="https://github.com/golang">Go</a>, <a href="https://github.com/primer">Primer</a>, <a href="https://github.com/reactjs">React</a> and <a href="https://github.com/apache/kafka">Kafka</a> among others.</li>
-		<li>The three open source projects GitHub members have most contributed 👩‍💻 to are:
-			<ul>
-				<li><a href="https://github.com/microsoft/vscode">Visual Studio Code</a></li>
-				<li><a href="https://github.com/rails/rails">Ruby on Rails</a></li>
-				<li><a href="https://github.com/Homebrew">Homebrew</a></li>
-			</ul>
-		</li>
-		<li>By the way, our <a href="https://github.com/github/docs">documentation</a> 🤓 is also open sourced</li>
-	</ul>
-</details>
+<h1 align = "center">Hola, estás en la organización de la AAAIMX 👋</h1>
+<p align="center">
+    <img src="https://www.aaaimx.org/img/sprites/aaaimx-transparent.png" width="400" alt="AAAIMX"><br><br>
+    <a href="https://www.aaaimx.org/" target="_blank">
+        <img src="https://img.shields.io/badge/website-AAAI%20Student%20Chapter%20M%C3%A9xico-yellow">
+    </a>
+    <a href="https://web.facebook.com/aaaimx/" target="_blank">
+        <img src="https://img.shields.io/badge/follow%20us-%40aaaimx-blue">
+    </a>
+    <a href="https://www.aaaimx.org/research" target="_blank">
+        <img src="https://img.shields.io/badge/donate-support%20us-green">
+    </a>
+    <br><br>
+    <p aling = "center">En la AAAIMX, creemos en el potencial ilimitado de la IA para transformar la sociedad y mejorar la calidad de vida de las personas. Por eso, al unirte a 	nosotros, podrás hacer tanto como te propongas para contribuir al avance de la IA en México y en el mundo.</p>
+</p>
+<!-- __ -->
 
 ---
+
+
+### Somos ¿?
+
+La Asociación por el Avance de la Inteligencia Artificial en México (AAAIMX) es una organización sin fines de lucro que se dedica a fomentar y promover el desarrollo de la Inteligencia Artificial (IA) en México. La AAAIMX tiene como objetivo principal impulsar el avance de la IA en el país y crear conciencia sobre su impacto y beneficios en la sociedad.
+
+### Contribuye
+
+Cualquier persona que esté interesada en colaborar en nuestros proyectos es bienvenida en la AAAIMX. Valoramos la diversidad de habilidades y conocimientos, y creemos que la colaboración y el trabajo en equipo son esenciales para lograr nuestros objetivos.
+
+Nuestros proyectos están diseñados para ser una experiencia enriquecedora en la que todos los participantes pueden aprender y desarrollar habilidades nuevas en el campo de la IA. Además, la AAAIMX cuenta como experiencia laboral, lo que puede ser beneficioso para aquellos que buscan ampliar su currículum.
+
+
+### Nota
+
+Nos enorgullece ser una organización sin fines de lucro, ya que esto significa que todo nuestro trabajo está orientado hacia el bien común. Todos nuestros proyectos y actividades tienen como objetivo impulsar el avance de la IA y sus aplicaciones en la sociedad, sin buscar beneficios económicos.
+
+En resumen, la AAAIMX es una organización sin fines de lucro que busca fomentar y promover el desarrollo de la IA en México. Cualquier persona interesada en colaborar en nuestros proyectos es bienvenida, y nuestras actividades cuentan como experiencia laboral. Creemos en el potencial ilimitado de la IA para transformar la sociedad, y trabajamos con pasión y compromiso para lograrlo. ¡Únete a nosotros y sé parte del cambio!
+
 
 
 <!--
